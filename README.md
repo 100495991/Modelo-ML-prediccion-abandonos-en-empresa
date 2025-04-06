@@ -1,5 +1,5 @@
 # AA_Practica1
 
-Hemos desarrollado la practica principalmente en VSCode aprovechando la extension de Live Share para realizarla a la vez.
+Hemos desarrollado la practica principalmente en VSCode aprovechando la extension de Live Share para poder editar el notebook de manera simultanea.
 
-En contributors aparece una 3 persona AlonsoR04, no sabemos porque, pero se trata de la misma persona que 100495821.
+- Nota: Aparentemente sale que hay 3 contributors, pero se debe a un error. En este caso, AlonsoR04 y 100495821 son las misma persona.
