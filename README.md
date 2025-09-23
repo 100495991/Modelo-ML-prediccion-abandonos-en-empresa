@@ -28,9 +28,3 @@ El proyecto aborda el **ciclo completo de un modelo de aprendizaje automático**
 
 ---
 
-## 🚀 Cómo Usar el Proyecto
-
-1. **Clonar el repositorio**  
-   ```bash
-   git clone <URL_DEL_REPO>
-   cd <NOMBRE_DEL_REPO>
